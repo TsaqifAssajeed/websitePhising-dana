@@ -1,0 +1,51 @@
+.box-input-pin {
+    width: 100%;
+    height: 45px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}.box-input-pin input {
+    height: 100%;
+    width: 40px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    margin: 0 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #000;
+    
+}.box-input-pin .clear {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    
+}
+
+.show {
+    margin-top: 30px;
+    width: 105px;
+    height: 25px;
+    outline: none;
+    border: 1px solid #fff;
+    background: none;
+    border-radius: 40px;
+    font-size: 12px;
+    text-align: center;
+    
+}
+
+.forgot {
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    
+}

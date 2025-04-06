@@ -1,0 +1,58 @@
+.index {
+    width: 100%;
+    height: 100%;
+    background: blue;
+    z-index: 9999;
+    
+}.index .hero {
+    margin: 20px 0;
+    width: 100%;
+    height: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}.index .hero img {
+    width: 90%;
+    
+}.index .content {
+    width: 100%;
+    text-align: center;
+    
+}.index .content h1 {
+    margin-top: 60px;
+    font-size: 24px;
+    font-weight: 700;
+    
+}.index .content .desc {
+    margin-top: 7px;
+    font-size: 16px;
+    
+}.index .content .line {
+    width: 80px;
+    margin: 20px auto;
+    height: 6px;
+    border-radius: 30px;
+    opacity: 0.7;
+    background: #fff;
+    
+}.index .content .log {
+    font-size: 16px;
+    
+}.index .content button:hover {
+    background: #f4f4f4;
+    transition: .2s;
+    
+}.index .content button {
+    margin-top: 20px;
+    width: 90%;
+    height: 47px;
+    background: #fff;
+    color: #118EEA;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    transition: .2s;
+    
+}

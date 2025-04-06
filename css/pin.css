@@ -1,0 +1,128 @@
+/* 118EEA */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #118EEA;
+    overflow: hidden;
+}
+
+.container {
+    box-sizing: border-box;
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    max-width: 600px;
+    max-height: 1000px;
+    background-color: #118EEA;
+    padding: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+
+.back {
+    position: absolute;
+    top: 25px;
+    width: 18px;
+    float: left;
+}
+
+.dana_logo {
+    display: block;
+    width: 95px;
+    margin-top: -5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-top: 60px;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+}
+
+.bh1 {
+    font-weight: 700;
+}
+
+.inputPin {
+    box-sizing: border-box;
+    margin-top: 50px;
+    width: 100%;
+    /*    background-color: #ff0000a5;*/
+}
+
+.formPin {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    /*    background-color: lightgreen;*/
+}
+
+/*********************/
+.six_pin {
+    display: flex;
+    /*    background-color: blue;*/
+    justify-content: center;
+
+}
+
+.inpPin {
+    caret-color: transparent;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+/*********************/
+.btn {
+    /*    background-color: blue;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.see {
+    margin-bottom: 52px;
+    margin-top: 33px;
+    background: none;
+    font-size: 13px;
+    color: #ffffff;
+    width: 110px;
+    height: 24px;
+    border: 1.2px solid #ffffff;
+    border-radius: 20px;
+}
+
+.lupa {
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*********************/

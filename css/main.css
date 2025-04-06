@@ -1,0 +1,153 @@
+/* 118EEA */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+
+* {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #118eea;
+    overflow: hidden;
+}
+
+.container {
+    box-sizing: border-box;
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    max-width: 600px;
+    max-height: 1000px;
+    background-color: #118eea;
+    padding: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+
+.back {
+    position: absolute;
+    top: 25px;
+    width: 18px;
+    float: left;
+}
+
+.dana_logo {
+    display: block;
+    width: 95px;
+    margin-top: -5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+}
+
+.bh1 {
+    font-weight: 700;
+}
+
+.inputNo {
+    box-sizing: border-box;
+    margin-top: 50px;
+    width: 100%;
+    /*background-color: #ff0000a5;*/
+    height: 100%;
+    max-height: 800px;
+}
+
+.formNo .nope {
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 500px;
+    height: 44px;
+    display: block;
+    margin: auto;
+    font-size: 22px;
+    font-weight: 600;
+    padding-left: 80px;
+}
+
+.formNo {
+    max-width: 500px;
+    margin: auto;
+    margin-top: -60px;
+    /*background-color: #00000044;*/
+    height: 100%;
+    max-height: 700px;
+}
+
+label {
+    display: inline-block;
+    position: relative;
+    bottom: -49px;
+}
+
+.flagIndo {
+    width: 25px;
+    margin-left: 10px;
+    margin-right: 5px;
+    border-radius: 2px;
+    box-shadow: 0.3px 0.3px 2px #ccc;
+}
+
+.codeTel {
+    font-weight: 600;
+}
+
+.syarat {
+    font-size: 13px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.btn {
+    position: fixed;
+                                transform: translateX(-50%);
+                                left: 50%;
+                                bottom: 10px;
+                                width: 200px;
+                                height: 50px;
+}
+.send_data {
+    background: none;
+    font-size: 15px;
+    color: #ffffff9c;
+    border: none;
+    width: 70px;
+    height: 40px;
+    margin-top: 0px;
+    transition: 0.3s;
+}
+
+.send_data:active,
+.send_data:hover,
+.send_data:focus {
+    font-size: 15.3px;
+    color: #ffffff;
+    width: 75px;
+    height: 45px;
+    transition: 0.3s;
+}
+
+::placeholder {
+    font-weight: 600;
+    font-size: 22px;
+    color: #bebebe;
+}
