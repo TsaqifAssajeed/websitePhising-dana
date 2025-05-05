@@ -40,9 +40,8 @@ php
 
 `$id_telegram = "CHAT_ID_KAMU";`
 
-`$id_botTele = "TOKEN_BOT_TELE_KAMU";
+`$id_botTele = "TOKEN_BOT_TELE_KAMU";`
 
-💡 Bisa dimodifikasi untuk mengirim foto, lokasi, dll.
 ## 5. Jalankan di Server Lokal (XAMPP/Laragon)
 Letakkan proyek di folder htdocs (XAMPP) atau www (Laragon)
 
