@@ -14,7 +14,7 @@ bash
 `cd projek-php-telegram`
 
 # 2. Buat Bot Telegram
-Buka Telegram dan cari [`https://t.me/Botfather`]
+Buka Telegram dan cari [https://t.me/Botfather]
 Ketik /newbot dan ikuti petunjuk untuk membuat bot
 Simpan TOKEN yang diberikan
 
