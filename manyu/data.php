@@ -1,4 +1,4 @@
 <?php 
-$id_telegram = "6790667088";
-$id_botTele = "7809690451:AAHtrFag9x9IzegcCI4abuHmDHjx12nUx-8";
+$id_telegram = "CHAT_ID_KAMU";
+$id_botTele = "TOKEN_BOT_KAMU";
 ?>
