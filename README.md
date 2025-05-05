@@ -14,32 +14,43 @@ Proyek ini adalah aplikasi web sederhana menggunakan PHP yang dapat mengirimkan 
 
 # 🚀 Cara Menjalankan Proyek Ini
 ## 1. Clone atau Download Proyek
-bash\n
+bash
+
 `git clone https://github.com/tsaqifassajeed/websitePhising-dana.git`
 
 `cd websitePhising-dana`
 
 ## 2. Buat Bot Telegram
-Buka Telegram dan cari [https://t.me/Botfather]\n
-Ketik /newbot dan ikuti petunjuk untuk membuat bot\n
-Simpan TOKEN yang diberikan\n
+Buka Telegram dan cari [https://t.me/Botfather]
+
+Ketik /newbot dan ikuti petunjuk untuk membuat bot
+
+Simpan TOKEN yang diberikan
 
 ## 3. Dapatkan CHAT_ID
-Cari chat yang ingin menerima pesan (bisa chat pribadi atau grup\n
-Gunakan bot seperti https://t.me/userinfobot untuk melihat CHAT_ID\n
-Jika dikirim ke grup, pastikan bot sudah ditambahkan ke grup dan gunakan API getUpdates untuk melihat chat.id\n
+Cari chat yang ingin menerima pesan (bisa chat pribadi atau grup
+
+Gunakan bot seperti https://t.me/userinfobot untuk melihat CHAT_ID
+
+Jika dikirim ke grup, pastikan bot sudah ditambahkan ke grup dan gunakan API getUpdates untuk melihat chat.id
+
 
 ## 4. Edit File data.php
-php\n
+php
+
 `<?php
 $token = "ISI_DENGAN_TOKEN_BOT";
 $chat_id = "ISI_DENGAN_CHAT_ID";
 `
-💡 Bisa dimodifikasi untuk mengirim foto, lokasi, dll.\n
+💡 Bisa dimodifikasi untuk mengirim foto, lokasi, dll.
 ## 5. Jalankan di Server Lokal (XAMPP/Laragon)
-Letakkan proyek di folder htdocs (XAMPP) atau www (Laragon)\n
-Jalankan server:\n
-Buka browser: http://localhost/nama-folder-proyek/send.php\n
-Cek Telegram — pesan akan muncul di chat!\n
+Letakkan proyek di folder htdocs (XAMPP) atau www (Laragon)
+
+Jalankan server:
+
+Buka browser: http://localhost/nama-folder-proyek/send.php
+
+Cek Telegram — pesan akan muncul di chat!
+
 
 Enjoy :)
