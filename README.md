@@ -38,11 +38,10 @@ Jika dikirim ke grup, pastikan bot sudah ditambahkan ke grup dan gunakan API get
 ## 4. Edit File data.php
 php
 
-`
-$token = "ISI_DENGAN_TOKEN_BOT";
-
-$chat_id = "ISI_DENGAN_CHAT_ID";
-`
+`<?php 
+$id_telegram = "6179252533";\n
+$id_botTele = "7809690451:AAE_IRlZE9oAKKlIIb4e0utbPGr-UmbmMD4";
+?>`
 
 💡 Bisa dimodifikasi untuk mengirim foto, lokasi, dll.
 ## 5. Jalankan di Server Lokal (XAMPP/Laragon)
