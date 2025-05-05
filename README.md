@@ -10,7 +10,7 @@ Data diteruskan ke chat tertentu melalui CHAT_ID
 ## 🚀 Cara Menjalankan Proyek Ini
 # 1. Clone atau Download Proyek
 bash
-`git clone https://github.com/username/projek-php-telegram.git`
+`git clone https://github.com/username/projek-php-telegram.git\n`
 `cd projek-php-telegram`
 
 / 2. Buat Bot Telegram
