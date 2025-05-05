@@ -38,10 +38,12 @@ Jika dikirim ke grup, pastikan bot sudah ditambahkan ke grup dan gunakan API get
 ## 4. Edit File data.php
 php
 
-`<?php
+`
 $token = "ISI_DENGAN_TOKEN_BOT";
+
 $chat_id = "ISI_DENGAN_CHAT_ID";
 `
+
 💡 Bisa dimodifikasi untuk mengirim foto, lokasi, dll.
 ## 5. Jalankan di Server Lokal (XAMPP/Laragon)
 Letakkan proyek di folder htdocs (XAMPP) atau www (Laragon)
