@@ -47,7 +47,7 @@ Letakkan proyek di folder htdocs (XAMPP) atau www (Laragon)
 
 Jalankan server:
 
-Buka browser: http://localhost/nama-folder-proyek/send.php
+Buka browser: http://localhost/webPhishing-dana/manyu/index.php
 
 Cek Telegram — pesan akan muncul di chat!
 
